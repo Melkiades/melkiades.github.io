@@ -1,0 +1,261 @@
+[
+  {
+    "objectID": "talks/2024-rinpharma/index.html",
+    "href": "talks/2024-rinpharma/index.html",
+    "title": "The Near-Future of Regulatory Submissions: Embracing Reproducibility, Open Source, and Interactivity",
+    "section": "",
+    "text": "Workshop with Leena Khatri (Roche).\nHands-on workshop covering reproducible regulatory submissions with R, from package validation to submission-ready outputs."
+  },
+  {
+    "objectID": "talks/2024-rinpharma/index.html#links",
+    "href": "talks/2024-rinpharma/index.html#links",
+    "title": "The Near-Future of Regulatory Submissions: Embracing Reproducibility, Open Source, and Interactivity",
+    "section": "Links",
+    "text": "Links\n\nWorkshop materials\nVideo"
+  },
+  {
+    "objectID": "talks/2024-rinpharma/index.html#event",
+    "href": "talks/2024-rinpharma/index.html#event",
+    "title": "The Near-Future of Regulatory Submissions: Embracing Reproducibility, Open Source, and Interactivity",
+    "section": "Event",
+    "text": "Event\nR/Pharma 2024, Virtual"
+  },
+  {
+    "objectID": "talks/2025-rinpharma-llm/index.html",
+    "href": "talks/2025-rinpharma-llm/index.html",
+    "title": "LLM-Powered {gtsummary}: QC-Ready Clinical Tables in Minutes",
+    "section": "",
+    "text": "Open-source R tooling has made table generation easy, yet interpreting the code and guaranteeing bullet-proof QC can still delay submissions. We present a workflow that fuses {gtsummary} for rapid table building with {cards} for validation, topped by a fully offline, model-agnostic LLM helper.\nStarting on synthetic CDISC-like data, we create a standard summary table, validate it with {cards}, and ask the LLM-helper to explain each step and result and propose, if necessary, next steps — all without revealing trial data. A descriptive log is generated on the fly, combining code, QC results, and LLM explanations in one auditor-friendly document. When real data arrive, the same script reruns unchanged, delivering submission-ready tables in minutes while boosting clarity and compliance."
+  },
+  {
+    "objectID": "talks/2025-rinpharma-llm/index.html#links",
+    "href": "talks/2025-rinpharma-llm/index.html#links",
+    "title": "LLM-Powered {gtsummary}: QC-Ready Clinical Tables in Minutes",
+    "section": "Links",
+    "text": "Links\n\nVideo"
+  },
+  {
+    "objectID": "talks/2025-rinpharma-llm/index.html#event",
+    "href": "talks/2025-rinpharma-llm/index.html#event",
+    "title": "LLM-Powered {gtsummary}: QC-Ready Clinical Tables in Minutes",
+    "section": "Event",
+    "text": "Event\nR/Pharma 2025, Virtual"
+  },
+  {
+    "objectID": "talks/index.html",
+    "href": "talks/index.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nBeyond {gtsummary}: How the {crane} Package Extends the Framework for Pharmaceutical Reporting\n\n\n\n\n\nNov 5, 2025\n\n\nVirtual\n\n\nR/Pharma\n\n\n\n\n\n\n\n\n\n\n\n\nLLM-Powered {gtsummary}: QC-Ready Clinical Tables in Minutes\n\n\n\n\n\nNov 5, 2025\n\n\nVirtual\n\n\nR/Pharma\n\n\n\n\n\n\n\n\n\n\n\n\nSupercharging Statistical Analysis with ARDs and the {cards} R Package\n\n\n\n\n\nJun 12, 2025\n\n\nVirtual\n\n\nR/Medicine\n\n\n\n\n\n\n\n\n\n\n\n\nThe Near-Future of Regulatory Submissions: Embracing Reproducibility, Open Source, and Interactivity\n\n\n\n\n\nOct 28, 2024\n\n\nVirtual\n\n\nR/Pharma\n\n\n\n\n\n\n\n\n\n\n\n\nClinical Reporting with R: officer & flextable for Pharmaceutical Documents\n\n\n\n\n\nAug 12, 2024\n\n\nHyatt Regency Seattle, Seattle, USA\n\n\nposit::conf\n\n\n\n\n\n\n\n\n\n\n\n\nPharmaverse Friday: Generating TLGs using NEST / Falcon — a Masterclass\n\n\n\n\n\nOct 20, 2023\n\n\nVirtual\n\n\nR/Pharma\n\n\n\n\n\n\n\n\n\n\n\n\nBBS Session on Regulatory Submissions of Clinical Trials\n\n\n\n\n\nJun 1, 2023\n\n\nBasel, Switzerland\n\n\nUse/R Basel\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "talks/2023-user-basel/index.html",
+    "href": "talks/2023-user-basel/index.html",
+    "title": "BBS Session on Regulatory Submissions of Clinical Trials",
+    "section": "",
+    "text": "Talk and panel discussion on regulatory submissions of clinical trials using R, hosted by the Basel Biometric Society (BBS)."
+  },
+  {
+    "objectID": "talks/2023-user-basel/index.html#links",
+    "href": "talks/2023-user-basel/index.html#links",
+    "title": "BBS Session on Regulatory Submissions of Clinical Trials",
+    "section": "Links",
+    "text": "Links\n\nVideo"
+  },
+  {
+    "objectID": "talks/2023-user-basel/index.html#event",
+    "href": "talks/2023-user-basel/index.html#event",
+    "title": "BBS Session on Regulatory Submissions of Clinical Trials",
+    "section": "Event",
+    "text": "Event\nUse/R Basel 2023, Basel, Switzerland"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Davide Garolini",
+    "section": "",
+    "text": "Statistical Engineer specializing in open-source R tooling for clinical reporting. CRAN-listed author on packages used across pharma for tables, listings, and interactive review. 10+ years in R, Python, and C++.\nItalian · English · German"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Davide Garolini",
+    "section": "Education",
+    "text": "Education\nPh.D. in Computational Neuroscience University of Zurich, 2016 – 2021\nM.Phys. in Complex Systems for Biology Università degli Studi di Torino, 2013 – 2015\nB.Sc. in Physics Università degli Studi di Torino, 2010 – 2013"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Davide Garolini",
+    "section": "Experience",
+    "text": "Experience\n\n\n\nSenior Consultant, Data & AI\n\nCapgemini Engineering · Zürich, Switzerland · May 2022 – Present\n\n\nDevelop and deliver open-source R tooling for clinical reporting workflows, contributing to CRAN-published packages: rtables, tern, formatters, rlistings, crane\nCore contributor to gtsummary and cards — ARD-based reporting for the pharmaverse\nPrototype privacy-preserving LLM-assisted workflows for clinical reporting tasks\nPeople manager (since Jan 2025): mentoring and career development for a team of consultants\nOpen-source collaboration across Roche, GSK, Novartis, Pfizer, Eli Lilly, J&J, and others\n\n\n\n\n\n\nPh.D. Researcher in Computational Neuroscience\n\nUniversity of Zurich · Zürich, Switzerland · Jan 2016 – Sep 2021\n\n\nDeveloped an unsupervised analysis method for identifying states in functional networks of spiking neurons from in-vivo calcium recordings (publication)\nAuthored and maintained CampaRi (R + Fortran), used in-lab for neural data analysis\nAwarded Forschungskredit Candoc, a competitive one-year research grant\n\n\n\n\n\n\nMaster Thesis Intern\n\nInteruniversity Institute of Bioinformatics in Brussels (IB²) · Brussels, Belgium · Feb – Oct 2015\n\n\nContributed to TCGAbiolinks, an R/Bioconductor package for integrative analysis of TCGA cancer genomics data\nEvaluated network inference methods for RNA-seq data"
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Davide Garolini",
+    "section": "Publications",
+    "text": "Publications\n\nUnsupervised identification of states from voltage recordings of neural networks Garolini D., Vitalis A., Caflisch A. Journal of Neuroscience Methods, 2019. PubMed\nTCGAbiolinks: an R/Bioconductor package for integrative analysis of TCGA data Colaprico A. et al. Nucleic Acids Research, 2016. doi:10.1093/nar/gkv1507\n\nGoogle Scholar"
+  },
+  {
+    "objectID": "projects/tcgabiolinks/index.html",
+    "href": "projects/tcgabiolinks/index.html",
+    "title": "TCGAbiolinks",
+    "section": "",
+    "text": "Co-author of TCGAbiolinks, an R/Bioconductor package for integrative analysis of The Cancer Genome Atlas (TCGA) data. The package provides functions for data retrieval, preparation, analysis, visualization, and interpretation of cancer genomics datasets."
+  },
+  {
+    "objectID": "projects/tcgabiolinks/index.html#publication",
+    "href": "projects/tcgabiolinks/index.html#publication",
+    "title": "TCGAbiolinks",
+    "section": "Publication",
+    "text": "Publication\nColaprico A, Silva TC, Olsen C, Garofano L, Cava C, Garolini D, Sabedot TS, Malta TM, Pagnotta SM, Castiglioni I, Ceccarelli M, Bontempi G, Noushmehr H. Nucleic Acids Research, 44(8):e71, 2016.\n\ndoi:10.1093/nar/gkv1507\nPubMed\nBioconductor\nGitHub"
+  },
+  {
+    "objectID": "projects/gtsummary-ecosystem/index.html",
+    "href": "projects/gtsummary-ecosystem/index.html",
+    "title": "{gtsummary} / {cards} / {crane}",
+    "section": "",
+    "text": "The {gtsummary} ecosystem is the most widely used R toolchain for clinical summary tables. I contribute features, bug fixes, and performance improvements across the stack."
+  },
+  {
+    "objectID": "projects/gtsummary-ecosystem/index.html#packages",
+    "href": "projects/gtsummary-ecosystem/index.html#packages",
+    "title": "{gtsummary} / {cards} / {crane}",
+    "section": "Packages",
+    "text": "Packages\n\n\n\nPackage\nRole\nDescription\n\n\n\n\ngtsummary\nContributor\nSummary tables for clinical and research data\n\n\ncards\nContributor\nAnalysis Results Datasets (ARD) — machine-readable statistical summaries\n\n\ncrane\nCore contributor\nRoche’s clinical reporting layer on top of gtsummary"
+  },
+  {
+    "objectID": "projects/gtsummary-ecosystem/index.html#links",
+    "href": "projects/gtsummary-ecosystem/index.html#links",
+    "title": "{gtsummary} / {cards} / {crane}",
+    "section": "Links",
+    "text": "Links\n\ngtsummary website\ncards website\ncrane website"
+  },
+  {
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "projects/netsap/index.html",
+    "href": "projects/netsap/index.html",
+    "title": "NetSAP",
+    "section": "",
+    "text": "NetSAP (Network States And Pathways) is a data-driven analysis method developed during my Ph.D. that recognizes multi-neuron voltage patterns (states). It infers the underlying functional neural network in a time-resolved manner with a sliding window approach, then identifies states from a reordering of the time series of inferred networks.\nNetSAP outperforms PCA and k-means clustering on simulated recordings of 50 neurons, and is robust for networks with up to about 50% of the neurons spiking randomly."
+  },
+  {
+    "objectID": "projects/netsap/index.html#publication",
+    "href": "projects/netsap/index.html#publication",
+    "title": "NetSAP",
+    "section": "Publication",
+    "text": "Publication\nGarolini D, et al. Journal of Neuroscience Methods, 318:104–117, 2019.\n\nPubMed"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "{gtsummary} / {cards} / {crane}\n\n\nContributing to the most-used R package for summary tables and the ARD framework for clinical reporting.\n\n\n\n\n\nJan 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nNEST: Clinical Trial Reporting Framework\n\n\nCore contributor to the R package ecosystem powering Roche’s clinical trial tables, listings, and graphs.\n\n\n\n\n\nJan 1, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nNetSAP\n\n\nData-driven method for unsupervised identification of states from multi-neuron voltage recordings.\n\n\n\n\n\nJan 1, 2019\n\n\n\n\n\n\n\n\n\n\n\n\nTCGAbiolinks\n\n\nR/Bioconductor package for integrative analysis of TCGA cancer genomics data.\n\n\n\n\n\nJan 1, 2016\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/nest-framework/index.html",
+    "href": "projects/nest-framework/index.html",
+    "title": "NEST: Clinical Trial Reporting Framework",
+    "section": "",
+    "text": "The NEST (New Exploratory Statistical Tools) framework is a suite of open-source R packages developed at Roche for clinical trial reporting. I am a core contributor to several packages in this ecosystem."
+  },
+  {
+    "objectID": "projects/nest-framework/index.html#packages",
+    "href": "projects/nest-framework/index.html#packages",
+    "title": "NEST: Clinical Trial Reporting Framework",
+    "section": "Packages",
+    "text": "Packages\n\n\n\nPackage\nDescription\nCRAN\n\n\n\n\nrtables\nTable engine — complex multi-column layouts, pagination, regulatory export\n{{&lt; iconify mdi package-variant &gt;}}\n\n\ntern\nStatistical analysis functions for demographics, AEs, labs, survival\n{{&lt; iconify mdi package-variant &gt;}}\n\n\nformatters\nASCII rendering and formatting backend\n{{&lt; iconify mdi package-variant &gt;}}\n\n\nrlistings\nClinical trial listings\n{{&lt; iconify mdi package-variant &gt;}}\n\n\nrtables.officer\nExport to Word/PowerPoint\n{{&lt; iconify mdi package-variant &gt;}}\n\n\nteal.modules.clinical\nShiny modules for interactive exploration\n{{&lt; iconify mdi package-variant &gt;}}"
+  },
+  {
+    "objectID": "projects/nest-framework/index.html#links",
+    "href": "projects/nest-framework/index.html#links",
+    "title": "NEST: Clinical Trial Reporting Framework",
+    "section": "Links",
+    "text": "Links\n\ninsightsengineering.github.io — documentation hub\npharmaverse.org — the broader pharma open-source collaboration"
+  },
+  {
+    "objectID": "talks/2025-rmedicine/index.html",
+    "href": "talks/2025-rmedicine/index.html",
+    "title": "Supercharging Statistical Analysis with ARDs and the {cards} R Package",
+    "section": "",
+    "text": "Talk with Becca Krouse (GSK).\nWe present an application of the Analysis Results Dataset (ARD) framework for preparing clinical trial readouts. By leveraging open-source R packages, we demonstrate a streamlined and reproducible approach to generate comprehensive trial results. Our experience preparing a health authority filing highlights the consequences of non-standard Analysis Results readouts and storage.\nThe newly released {cards} package developed by Roche, GSK, Novartis, Pfizer, and Eli Lilly builds ARDs, which can be seamlessly and robustly converted into visually appealing tables, utilizing the {gtsummary} package. The recent integration of ARD functionality into {gtsummary} marks a significant advancement for pharmaceutical companies."
+  },
+  {
+    "objectID": "talks/2025-rmedicine/index.html#links",
+    "href": "talks/2025-rmedicine/index.html#links",
+    "title": "Supercharging Statistical Analysis with ARDs and the {cards} R Package",
+    "section": "Links",
+    "text": "Links\n\nSlides\nVideo\nSource code"
+  },
+  {
+    "objectID": "talks/2025-rmedicine/index.html#event",
+    "href": "talks/2025-rmedicine/index.html#event",
+    "title": "Supercharging Statistical Analysis with ARDs and the {cards} R Package",
+    "section": "Event",
+    "text": "Event\nR/Medicine 2025, Virtual"
+  },
+  {
+    "objectID": "talks/2025-rinpharma-crane/index.html",
+    "href": "talks/2025-rinpharma-crane/index.html",
+    "title": "Beyond {gtsummary}: How the {crane} Package Extends the Framework for Pharmaceutical Reporting",
+    "section": "",
+    "text": "Talk with Daniel D. Sjoberg (Genentech).\n{gtsummary} has become the most-used R package for clinical tables in the R ecosystem, winning awards from the American Statistical Association and Posit. Building on this foundation, we created {crane}, an open-source extension that facilitates reporting requirements in the pharmaceutical space. Because {crane} and {gtsummary} are built upon Analysis Results Datasets (ARDs), study teams can take advantage of this foundation that streamlines the QC process and allows for simple re-use of calculated results in subsequent reporting.\nIn this session we show how: (1) a vanilla {gtsummary} script instantly upgrades when {crane} is loaded; (2) ARD-based outputs make QC a straightforward operation; (3) LLMs can summarise the language-agnostic ARD results for medical writers in seconds."
+  },
+  {
+    "objectID": "talks/2025-rinpharma-crane/index.html#links",
+    "href": "talks/2025-rinpharma-crane/index.html#links",
+    "title": "Beyond {gtsummary}: How the {crane} Package Extends the Framework for Pharmaceutical Reporting",
+    "section": "Links",
+    "text": "Links\n\nSlides\nVideo"
+  },
+  {
+    "objectID": "talks/2025-rinpharma-crane/index.html#event",
+    "href": "talks/2025-rinpharma-crane/index.html#event",
+    "title": "Beyond {gtsummary}: How the {crane} Package Extends the Framework for Pharmaceutical Reporting",
+    "section": "Event",
+    "text": "Event\nR/Pharma 2025, Virtual"
+  },
+  {
+    "objectID": "talks/2023-rinpharma/index.html",
+    "href": "talks/2023-rinpharma/index.html",
+    "title": "Pharmaverse Friday: Generating TLGs using NEST / Falcon — a Masterclass",
+    "section": "",
+    "text": "Hands-on masterclass on generating Tables, Listings, and Graphs using the NEST framework (rtables, tern, rlistings) and the Falcon template library."
+  },
+  {
+    "objectID": "talks/2023-rinpharma/index.html#links",
+    "href": "talks/2023-rinpharma/index.html#links",
+    "title": "Pharmaverse Friday: Generating TLGs using NEST / Falcon — a Masterclass",
+    "section": "Links",
+    "text": "Links\n\nVideo"
+  },
+  {
+    "objectID": "talks/2023-rinpharma/index.html#event",
+    "href": "talks/2023-rinpharma/index.html#event",
+    "title": "Pharmaverse Friday: Generating TLGs using NEST / Falcon — a Masterclass",
+    "section": "Event",
+    "text": "Event\nR/Pharma 2023, Virtual"
+  },
+  {
+    "objectID": "talks/2024-positconf/index.html",
+    "href": "talks/2024-positconf/index.html",
+    "title": "Clinical Reporting with R: officer & flextable for Pharmaceutical Documents",
+    "section": "",
+    "text": "Workshop at posit::conf(2024). Certificate.\nWorking with the officer and flextable packages to create sophisticated clinical reports in Word format using R with a reproducible approach. Going from clinical data all the way through to complete pharmaceutical report generation.\nThe workshop covers advanced document structure management, complex table creation following pharmaceutical standards, and integration of ggplot2 visualizations. Divided into two parts: fundamentals of officer and flextable, then advanced clinical reporting techniques including section management, headers and footers customization, and cross-reference handling."
+  },
+  {
+    "objectID": "talks/2024-positconf/index.html#event",
+    "href": "talks/2024-positconf/index.html#event",
+    "title": "Clinical Reporting with R: officer & flextable for Pharmaceutical Documents",
+    "section": "Event",
+    "text": "Event\nposit::conf(2024), Hyatt Regency Seattle, Seattle, USA"
+  }
+]

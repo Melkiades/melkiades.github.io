@@ -1,0 +1,46 @@
+/* Experience timeline */
+.experience-entry {
+  display: flex;
+  gap: 1.2rem;
+  margin-bottom: 1.8rem;
+  align-items: flex-start;
+}
+
+.experience-entry img {
+  width: 48px;
+  height: 48px;
+  object-fit: contain;
+  margin-top: 0.2rem;
+  flex-shrink: 0;
+}
+
+.experience-entry .details h4 {
+  margin-bottom: 0.1rem;
+  font-size: 1.05rem;
+}
+
+.experience-entry .details .meta {
+  color: #6c757d;
+  font-size: 0.9rem;
+  margin-bottom: 0.3rem;
+}
+
+.experience-entry .details p {
+  margin-bottom: 0;
+}
+
+.experience-entry .details ul {
+  margin-top: 0.3rem;
+  margin-bottom: 0;
+  padding-left: 1.2rem;
+}
+
+/* Listing tweaks */
+.quarto-listing {
+  margin-top: 1rem;
+}
+
+/* About page image */
+.about-image {
+  border-radius: 50%;
+}

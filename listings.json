@@ -1,0 +1,27 @@
+[
+  {
+    "listing": "/talks/index.html",
+    "items": [
+      "/talks/2025-rinpharma-crane/index.html",
+      "/talks/2025-rinpharma-llm/index.html",
+      "/talks/2025-rmedicine/index.html",
+      "/talks/2024-rinpharma/index.html",
+      "/talks/2024-positconf/index.html",
+      "/talks/2023-rinpharma/index.html",
+      "/talks/2023-user-basel/index.html"
+    ]
+  },
+  {
+    "listing": "/posts/index.html",
+    "items": []
+  },
+  {
+    "listing": "/projects/index.html",
+    "items": [
+      "/projects/gtsummary-ecosystem/index.html",
+      "/projects/nest-framework/index.html",
+      "/projects/netsap/index.html",
+      "/projects/tcgabiolinks/index.html"
+    ]
+  }
+]
